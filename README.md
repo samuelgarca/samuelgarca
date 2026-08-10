@@ -27,16 +27,3 @@ Unifi OS Server
 
 Redes Avançadas (VLANs, DHCP, Redirecionamento de DNS)
 
-🚀 Projetos em Destaque
-📄 GabaritaAI
-Uma ferramenta construída em Python (PyMuPDF) que realiza a limpeza e a engenharia reversa de provas em PDF, otimizando o processamento de dados e eliminando vieses informacionais (remoção de gabaritos) para entregar materiais limpos para estudo prático.
-
-☁️ Migração e Gestão de Infraestrutura Cloud
-Projeto prático focado na alocação otimizada de recursos. Envolveu a transição de servidores de gerenciamento locais para a nuvem via provisionamento de máquinas virtuais na Oracle Cloud, além de segmentação do fluxo de informações e segurança de redes internas (VLANs e DNS).
-
-📫 Como me encontrar
-LinkedIn: www.linkedin.com/in/josé-samuel-garcia-136a94150
-
-E-mail: samuelgarcia_ph@hotmail.com
-
-⭐️ Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
